@@ -2,27 +2,6 @@
 
 A custom React-like library built from scratch to understand the core concepts of rendering, state management, and event handling in a functional component architecture. This project demonstrates how to create a minimal React-like framework using modern JavaScript and tools like Babel and Webpack.
 
----
-
-## **Table of Contents**
-1. [Features](#features)
-2. [Getting Started](#getting-started)
-   - [Prerequisites](#prerequisites)
-   - [Installation](#installation)
-   - [Running the App](#running-the-app)
-3. [Project Structure](#project-structure)
-4. [Key Concepts](#key-concepts)
-   - [Rendering](#rendering)
-   - [JSX and `createElement`](#jsx-and-createelement)
-   - [State Management](#state-management)
-5. [Tools and Configurations](#tools-and-configurations)
-   - [Babel](#babel)
-   - [Webpack](#webpack)
-6. [Future Enhancements](#future-enhancements)
-7. [License](#license)
-
----
-
 ## **Features**
 - Lightweight implementation of a React-like library.
 - Custom `useState` hook for state management.
